@@ -1,0 +1,5 @@
+{
+  "name": "Financial Statement Analyzer",
+  "description": "An application to analyze financial statements from images and generate a presentation for executives.",
+  "requestFramePermissions": []
+}
